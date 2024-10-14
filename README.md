@@ -2,12 +2,12 @@
 ## Twitter Introduction
 This assignment teaches me how to interact with twitter API. I also learned and get used to with twitter developer account.
 first I created that account and generate some API keys then I've stored it for future purposes.This assignmnet is about posting new tweet and deleting the tweet with authentication and app permissions.
-## setup Instructions
-### Step1: I've created twitter developer account with email credentials.
-### step2: Then I,ve generated API including client Id and token seceret and save it for referenece.
-### step3: After that, I've set environment variables so that no one can access my seceret token.
-### step4: I wrote logic for posting new tweet and deleting the tweet.
-### step5: I ran the program and faced so much errors.
+## Setup Instructions
+ Step1: I've created twitter developer account with email credentials.
+ Step2: Then I,ve generated API including client Id and token seceret and save it for referenece.
+ Step3: After that, I've set environment variables so that no one can access my seceret token. 
+ Step4: I wrote logic for posting new tweet and deleting the tweet.
+ Step5: I ran the program and faced so much errors.
 ## Progaram Details
 I created two functions with posting tweet and deleteing tweet.then, I wrote code for setting environment variables and wrote code for OAuth1 setup.After that, set headers and created http requests also wrote logic for reading response body.
 for delete the tweet, I defined tweetid and sent the request for delete the tweet.I created multiple tweets and delete one specific tweet with Id.
